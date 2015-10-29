@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"valid",
+				"validate"
+			],
+			[
+				"instance",
+				"instance_variable_get"
+			],
+			[
+				"valida",
+				"validates"
+			],
+			[
+				"number",
+				"number_of_cars"
+			],
+			[
+				"nu",
+				"number_of_cars"
+			],
+			[
+				"n",
+				"number_of_cars"
+			],
+			[
+				"max",
+				"max_attempts"
+			],
+			[
+				"att",
+				"attempts"
+			],
+			[
+				"ne",
+				"next_station"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"initial",
+				"initial_rpm"
+			],
+			[
+				"la",
+				"last_station"
+			],
+			[
+				"firs",
+				"first_station"
+			],
+			[
+				"train_",
+				"train_arrival"
+			],
+			[
+				"lo",
+				"local_price"
+			],
+			[
+				"ba",
+				"bascet_total"
+			],
+			[
+				"basce",
+				"bascet_hash"
+			],
+			[
+				"al",
+				"alex_height"
+			],
+			[
+				"var",
+				"var_name"
+			],
+			[
+				"num",
+				"number_of_wagons"
+			],
+			[
+				"No",
+				"NoMemoryError"
+			],
+			[
+				"co",
+				"connect_to_wikipedia"
+			],
+			[
+				"ra",
+				"raise"
+			],
+			[
+				"validate",
+				"validate_number"
+			],
+			[
+				"fuel",
+				"fuel_tank"
+			],
+			[
+				"en",
+				"engine_volume"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vkurennov/work/tceh_rails/my_habr"
+	],
+	"file_history":
+	[
+		"/Users/vkurennov/Downloads/Wild & Wacky Vegetables.html",
+		"/Users/vkurennov/work/tceh_ruby/10_html/forms.html",
+		"/Users/vkurennov/work/tceh_ruby/10_html/divs.html",
+		"/Users/vkurennov/work/tceh_ruby/10_html/table.html",
+		"/Users/vkurennov/work/tceh_ruby/10_html/stylesheet.css",
+		"/Users/vkurennov/work/tceh_ruby/09_ruby/my_attr_accessor.rb",
+		"/Users/vkurennov/work/tceh_ruby/09_ruby/valid.rb",
+		"/Users/vkurennov/work/tceh_ruby/09_ruby/hw.rb",
+		"/Users/vkurennov/work/tceh_ruby/10_html/structure.html",
+		"/Users/vkurennov/work/tceh_ruby/bootstrap.html",
+		"/Users/vkurennov/work/tceh_ruby/09_ruby/foo.rb",
+		"/Users/vkurennov/work/tceh_ruby/09_ruby/my_irb.rb",
+		"/Users/vkurennov/work/tceh_ruby/09_ruby/send.rb",
+		"/Users/vkurennov/work/tceh_ruby/09_ruby/strings.rb",
+		"/Users/vkurennov/work/tceh_ruby/08_ruby/user.rb",
+		"/Users/vkurennov/work/tceh_ruby/09_ruby/10_html/structure.html",
+		"/Users/vkurennov/work/tceh_ruby/06_ruby/hw1.rb",
+		"/Users/vkurennov/work/tceh_ruby/07_ruby/hw2.rb",
+		"/Users/vkurennov/work/tceh_ruby/07_ruby/hw.rb",
+		"/Users/vkurennov/work/tceh_ruby/06_ruby/instances.rb",
+		"/Users/vkurennov/work/tceh_ruby/08_ruby/train.rb",
+		"/Users/vkurennov/work/tceh_ruby/08_ruby/color.rb",
+		"/Users/vkurennov/work/tceh_ruby/08_ruby/hw2.rb",
+		"/Users/vkurennov/work/tceh_ruby/08_ruby/hw.rb",
+		"/Users/vkurennov/work/tceh_ruby/07_ruby/car.rb",
+		"/Users/vkurennov/work/tceh_ruby/07_ruby/exceptions.rb",
+		"/Users/vkurennov/work/tceh_ruby/08_ruby/memoization.rb",
+		"/Users/vkurennov/work/tceh_ruby/06_ruby/car.rb",
+		"/Users/vkurennov/work/tceh_ruby/06_ruby/hw2.rb",
+		"/Users/vkurennov/work/tceh_ruby/06_ruby/return.rb",
+		"/Users/vkurennov/work/tceh_ruby/06_ruby/fuel_tank.rb",
+		"/Users/vkurennov/work/tutu/=",
+		"/Users/vkurennov/work/tutu/Station.first",
+		"/Users/vkurennov/work/tceh_ruby/instances.rb",
+		"/Users/vkurennov/work/tceh_ruby/05_ruby/car.rb",
+		"/Users/vkurennov/work/tceh_ruby/05_ruby/truck.rb",
+		"/Users/vkurennov/work/tceh_ruby/05_ruby/hw.rb",
+		"/Users/vkurennov/work/validation/validation.rb",
+		"/Users/vkurennov/work/tceh_ruby/04_ruby/array_5.rb",
+		"/Users/vkurennov/work/tceh_ruby/04_ruby/cart.rb",
+		"/Users/vkurennov/work/tceh_ruby/04_ruby/vowels.rb",
+		"/Users/vkurennov/work/tceh_ruby/04_ruby/hw.rb",
+		"/Users/vkurennov/work/tceh_ruby/04_ruby/car.rb",
+		"/Users/vkurennov/work/tceh_ruby/03_ruby/loop.rb",
+		"/Users/vkurennov/work/tceh_ruby/03_ruby/triangle.rb",
+		"/Users/vkurennov/work/tceh_ruby/03_ruby/hash_case.rb",
+		"/Users/vkurennov/work/tceh/02_ruby/calc.rb",
+		"/Users/vkurennov/work/tceh/02_ruby/conditions_2.rb",
+		"/Users/vkurennov/work/tceh/02_ruby/nil.rb",
+		"/Users/vkurennov/work/tceh/02_ruby/conditions_3.rb",
+		"/Users/vkurennov/work/tceh/02_ruby/conditions_1.rb",
+		"/Users/vkurennov/work/tceh/02_ruby/conditions.rb",
+		"/Users/vkurennov/work/tceh/02_ruby/tringle_area.rb",
+		"/Users/vkurennov/work/tceh/01_ruby_intro/hello.rb",
+		"/Users/vkurennov/work/tutu/123.rb",
+		"/Users/vkurennov/work/tceh/test/test2.txt",
+		"/Users/vkurennov/work/tceh/test/test.txt",
+		"/Users/vkurennov/VirtualBox VMs/Ubuntu/Ubuntu.vbox",
+		"/Users/vkurennov/work/ror-beginner/oop2/car.rb",
+		"/Users/vkurennov/work/ror-beginner/object_model/car.rb",
+		"/Users/vkurennov/work/ror-beginner/object_model/modules.rb",
+		"/Users/vkurennov/work/ror-beginner/idioms/string.rb",
+		"/Users/vkurennov/work/ror-beginner/metaprogramming/my_irb.rb",
+		"/Users/vkurennov/work/ror-beginner/idioms/idioms.rb",
+		"/Users/vkurennov/work/ror-beginner/blocks/blocks.rb",
+		"/Users/vkurennov/work/ror-beginner/exceptions/car.rb",
+		"/Users/vkurennov/work/ror-beginner/exceptions/main.rb",
+		"/Users/vkurennov/work/ror-beginner/execptions/car.rb",
+		"/Users/vkurennov/work/ror-beginner/execptions/main.rb",
+		"/Users/vkurennov/work/ror-beginner/truck.rb",
+		"/Users/vkurennov/work/ror-beginner/main.rb",
+		"/Users/vkurennov/work/ror-beginner/sport_car.rb",
+		"/Users/vkurennov/work/ror-beginner/oop2/car",
+		"/Users/vkurennov/work/ror-beginner/oop/car.rb",
+		"/Users/vkurennov/work/ror-beginner/hello2.rb",
+		"/Users/vkurennov/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vkurennov/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/vkurennov/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/Users/vkurennov/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/vkurennov/work/ror-beginner/car.rb",
+		"/Users/vkurennov/Downloads/fwdrubyonrails/contest.rb",
+		"/Users/vkurennov/Downloads/fwdrubyonrails/topics_spec.rb",
+		"/Users/vkurennov/Downloads/fwdrubyonrails/contest_spec.rb",
+		"/Users/vkurennov/work/wotl/app/views/layouts/application.html.slim",
+		"/Users/vkurennov/work/wotl/app/models/card.rb",
+		"/Users/vkurennov/Downloads/package_1396419556/index.html",
+		"/Users/vkurennov/work/uniteller/index.html",
+		"/Users/vkurennov/work/aspo/core/spec/acceptance/acceptance_helper.rb",
+		"/Users/vkurennov/Documents/thinknetica/themeforest-6052147-mist-functional-multipurpose-landing-page/Mist v1.3.3/index.html",
+		"/Users/vkurennov/work/wotl/app/models/location.rb",
+		"/Users/vkurennov/Downloads/ficus/app/models/category.rb"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rails",
+			"Ruby",
+			"3D"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 56.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "my_habr.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
