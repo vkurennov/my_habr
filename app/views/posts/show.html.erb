@@ -4,6 +4,18 @@
 </p>
 
 <p>
+  <strong>Категории:</strong>
+  <%= @post.categories_titles %>
+</p>
+
+<% if @post.user.present? %>
+    <p>
+      <strong>Автор:</strong>
+      <%= @post.user.email %>
+    </p>
+<% end %>
+
+<p>
   <strong>Body:</strong>
   <%= @post.body %>
 </p>
