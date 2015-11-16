@@ -12,3 +12,7 @@
     <%= render @posts %>
   </tbody>
 </table>
+
+<% if current_user && current_user.admin? %>
+    <%= link_to  'Все категории', admin_categories_path %>
+<% end %>

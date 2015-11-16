@@ -6,4 +6,8 @@ class User < ActiveRecord::Base
 
   has_one :profile
   has_many :posts
+
+  def author_of?(object)
+    id == object.user_id
+  end
 end
