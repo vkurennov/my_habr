@@ -6,7 +6,12 @@ class PostsController < ApplicationController
   # GET /posts
   # GET /posts.json
   def index
-    @posts = Post.all
+    @posts = Post.reverse_order(:desc).published.all
+  end
+
+  def unpublished
+    @posts = Post.reverse_order(:desc).unpublished.all
+    render :index
   end
 
   # GET /posts/1
@@ -72,7 +77,7 @@ class PostsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def post_params
-      params.require(:post).permit(:title, :body, category_ids: [])
+      params.require(:post).permit(:title, :body, :published, category_ids: [])
     end
 
     def check_author

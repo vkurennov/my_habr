@@ -1,0 +1,5 @@
+<p>Привет, <%= @user.email %></p>
+<p>На ваш пост "<%= link_to @post.title, @post %>" оставлен комментарий:</p>
+<p><%= truncate(@comment.body) %></p>
+
+<p>Все посты вы можете посмотреть <%= link_to 'здесь', posts_url %></p>
