@@ -9,3 +9,6 @@ ru:
   posts:
     form:
       submit: '%{action} публикацию'
+  subscriptions:
+    create: 'Вы подписаны на обновления'
+    destroy: 'Вы отписаны от обновлений'
