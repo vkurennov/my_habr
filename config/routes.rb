@@ -3,6 +3,8 @@ Rails.application.routes.draw do
   resources :posts do
     get :unpublished, on: :collection
     resources :comments, shallow: true
+    resources :subscriptions,
+              only: [:create, :destroy], shallow: true
   end
   resources :categories, only: [:show]
 

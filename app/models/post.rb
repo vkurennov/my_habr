@@ -6,13 +6,17 @@ class Post < ActiveRecord::Base
   has_many :categories, through: :categories_posts
   belongs_to :user
 
+  has_many :subscriptions
+  has_many :subscribers,
+           source: :user, through: :subscriptions
+
   validates :title, presence: true
 
   scope :reverse_order, ->(order) { order(created_at: order) }
   scope :published, -> { where(published: true) }
   scope :unpublished, -> { where(published: false) }
 
-  # after_save :send_notification
+  after_create :subscribe_author
 
   def categories_titles
     # categories.map(&:title).join(', ')
@@ -21,7 +25,7 @@ class Post < ActiveRecord::Base
 
   protected
 
-  def send_notification
-    # raise Exception
+  def subscribe_author
+    user.subscribe_to(self)
   end
 end

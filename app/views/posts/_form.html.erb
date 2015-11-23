@@ -20,6 +20,6 @@
     </div>
 
   <div class="actions">
-    <%= f.submit  %>
+    <%= f.submit t('.submit', action: @post.new_record? ? t('common.create') : t('common.update'))  %>
   </div>
 <% end %>

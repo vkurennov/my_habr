@@ -1,0 +1,11 @@
+ru:
+  common:
+    back: "Назад"
+    create: "Создать"
+    update: "Изменить"
+  welcome:
+    index:
+      title: 'Привет, Rails!'
+  posts:
+    form:
+      submit: '%{action} публикацию'
