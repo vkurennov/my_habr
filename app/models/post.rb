@@ -1,8 +1,8 @@
 class Post < ActiveRecord::Base
-  has_many :comments
+  has_many :comments, dependent: :destroy
   # has_and_belongs_to_many :categories
 
-  has_many :categories_posts
+  has_many :categories_posts, dependent: :destroy
   has_many :categories, through: :categories_posts
   belongs_to :user
 
