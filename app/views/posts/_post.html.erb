@@ -10,8 +10,10 @@
   <td><%= link_to 'Show', post %></td>
   <% if user_signed_in? %>
       <% if current_user.author_of?(post) %>
-        <td><%= link_to 'Edit', edit_post_path(post) %></td>
-        <td><%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td>
+          <%= link_with_icon :pencil, edit_post_path(post), title: 'Edit' %>
+        </td>
+        <td><%= link_with_icon 'trash-o', post, title: 'Destroy', method: :delete, data: { confirm: 'Are you sure?' } %></td>
       <% end %>
       <td>
         <% if current_user.subscribed_to?(post) %>
