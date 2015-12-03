@@ -8,7 +8,9 @@ default: &default
   adapter: postgresql
   pool: 5
   timeout: 5000
-  # user: postgres # для Ubuntu
+  # для Ubuntu
+  # user: postgres
+  # password: 'postgres'
 
 development:
   <<: *default
