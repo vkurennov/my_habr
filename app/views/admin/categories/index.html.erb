@@ -11,9 +11,14 @@
   <tbody>
   <% @categories.each do |category| %>
       <tr>
-        <td><%= category.title %></td>
+        <td>
+          <%= div_for category do %>
+            <%= category.title %>
+          <% end %>
+          <%= render 'form', category: category, hidden: true %>
+        </td>
         <td><%= link_to 'Show', category %></td>
-        <td><%= link_to 'Edit', edit_admin_category_path(category) %></td>
+        <td><%= link_to 'Edit', '#', class: 'edit_category_link', data: { category_id: category.id } %></td>
         <td><%= link_to 'Destroy', [:admin, category], method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
   <% end %>

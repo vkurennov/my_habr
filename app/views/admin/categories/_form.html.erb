@@ -1,0 +1,7 @@
+<% hidden = false unless local_assigns[:hidden] %>
+<%= form_for [:admin, category], html: { style: "display: #{hidden ? 'none' : 'block'}" } do |f| %>
+    <%= render 'common/errors', object: category %>
+    <%= f.label :title %>
+    <%= f.text_field :title %>
+    <%= f.submit %>
+<% end %>
